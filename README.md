@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  Mortgage Calculator             |  Simple Mortgage Calculator             | https://github.com/sethsot/Mortgage-Calculator.git       |
+| 2 |  Tip Calculator             |  Simple Tip Calculator             | https://github.com/sethsot/Tip-Calculator.git       |
+| 3 |  Language Dictionary             |  German-English Dictionary             | https://github.com/sethsot/Dictionary-exercise.git       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
@@ -34,7 +34,7 @@ You need to have [`Python 3`](https://www.python.org/) on your system (**a Pytho
 
 - Windows *(Python should be added to the Path variable of environment)*:
         
-        python3 -m venv venv; venv\Scripts\activate; python -m pip install --upgrade pip; python -m pip install -r requirements.txt  
+          python3 -m venv venv; venv\Scripts\activate; python -m pip install --upgrade pip; python -m pip install -r requirements.txt
 
 - Linux & MacOs:
         
