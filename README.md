@@ -21,7 +21,7 @@ The below table must contain the details of the repositories you will create, fi
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
 | 1 |  -Mortgage Calculator             |  -Simple Mortgage Calculator             | https://github.com/sethsot/Mortgage-Calculator.git       |
-| 2 |  -             |  -             | https://       |
+| 2 |  Tip Calculator             |  Simple Tip Calculator             | https://github.com/sethsot/Tip-Calculator.git       |
 | 3 |  -             |  -             | https://       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
